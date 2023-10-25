@@ -103,7 +103,10 @@
 **STEP 5:** Conclusion
 
 **Exploratory Data Analysis (EDA) & Data Preprocessing**
-
+    For the purposes of this project, the features `'Channel'`
+    and `'Region'` were excluded in the analysis — with focus
+    instead on the six product categories recorded for customers.
+    
     This summary encompasses the key insights gained from the
     Exploratory Data Analysis (EDA) and data preprocessing stages:
 
