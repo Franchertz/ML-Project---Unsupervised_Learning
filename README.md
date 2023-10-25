@@ -3,74 +3,74 @@
 
  **PROBLEM STATEMENT:**
    
-   - The problem is to uncover patterns and structures within
-     the dataset and use these findings for informed decision-making.
+      - The problem is to uncover patterns and structures within
+        the dataset and use these findings for informed decision-making.
 
  **PROJECT DESCRIPTION:**
 
-   - The project revolves around using unsupervised learning
-     techniques on the "Wholesale Data" dataset.
+      - The project revolves around using unsupervised learning
+        techniques on the "Wholesale Data" dataset.
 
-   - It includes two main tasks: exploratory data analysis and
-     pre-processing, and unsupervised learning.
+      - It includes two main tasks: exploratory data analysis and
+        pre-processing, and unsupervised learning.
 
-   - Exploratory data analysis involves data import, cleaning,
-     analysis, visualization, handling missing values and outliers,
-     and feature engineering.
+      - Exploratory data analysis involves data import, cleaning,
+        analysis, visualization, handling missing values and outliers,
+        and feature engineering.
 
-   - Unsupervised learning encompasses k-means clustering, hierarchical
-     clustering, and principal component analysis (PCA) to group similar
-     data points and identify patterns.
+      - Unsupervised learning encompasses k-means clustering, hierarchical
+        clustering, and principal component analysis (PCA) to group similar
+        data points and identify patterns.
    
  **PROJECT GOAL:**
 
-   - The primary goal of the project is to gain insights from the
-     dataset through data analysis and visualization.
+      - The primary goal of the project is to gain insights from the
+        dataset through data analysis and visualization.
 
-   - The secondary goal is to effectively communicate these insights
-     to stakeholders.
+      - The secondary goal is to effectively communicate these insights
+        to stakeholders.
 
-   - Specific goals include data preprocessing, clustering analysis,
-     and dimensionality reduction using PCA.
+      - Specific goals include data preprocessing, clustering analysis,
+        and dimensionality reduction using PCA.
 
-   - The project aims to provide visualizations and metrics to enable informed
-     decisions in response to business questions.
+      - The project aims to provide visualizations and metrics to enable informed
+        decisions in response to business questions.
 
 **PROCESS:**
 
 **STEP 1:**Exploratory Data Analysis (EDA) & Data Preprocessing
 
-   - Start by importing the Wholesale Data dataset.
+      - Start by importing the Wholesale Data dataset.
 
-   - Check for missing values and decide how to handle them
-     (imputation or removal).
+      - Check for missing values and decide how to handle them
+        (imputation or removal).
 
-   - Identify and handle outliers if necessary.
+      - Identify and handle outliers if necessary.
 
-   - Conduct an exploratory data analysis to understand the
-     characteristics of the dataset.
+      - Conduct an exploratory data analysis to understand the
+        characteristics of the dataset.
 
-   - Perform data preprocessing tasks such as data scaling.
+      - Perform data preprocessing tasks such as data scaling.
 
-   - Visualize the relationships between different variables
-     using plots like scatter plots, histograms, and
-     correlation matrices.
+      - Visualize the relationships between different variables
+        using plots like scatter plots, histograms, and
+        correlation matrices.
 
-   - Explore the distributions and summary statistics
-     of the data.
+      - Explore the distributions and summary statistics
+        of the data.
 
 **STEP 2:** K-Means Clustering   
 
-   - Implement K-Means clustering on the preprocessed data.
+      - Implement K-Means clustering on the preprocessed data.
 
-   - Use the Elbow Method to determine the optimal
-     number of clusters.
+      - Use the Elbow Method to determine the optimal
+        number of clusters.
 
-   - Cluster the data and analyze the characteristics of
-     each cluster.
+      - Cluster the data and analyze the characteristics of
+        each cluster.
 
-   - Visualize the clusters using scatter plots or other
-     relevant techniques.
+      - Visualize the clusters using scatter plots or other
+        relevant techniques.
 
 
 **STEP 3:** Hierarchical Clustering: 
