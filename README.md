@@ -38,7 +38,7 @@
 
 **PROCESS:**
 
-**STEP 1:**Exploratory Data Analysis (EDA) & Data Preprocessing
+**STEP 1:** Exploratory Data Analysis (EDA) & Data Preprocessing
 
       - Start by importing the Wholesale Data dataset.
 
